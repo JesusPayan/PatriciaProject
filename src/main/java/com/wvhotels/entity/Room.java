@@ -1,6 +1,7 @@
 package com.wvhotels.entity;
 
 import lombok.Data;
+import org.springframework.context.annotation.Primary;
 
 import javax.persistence.*;
 
